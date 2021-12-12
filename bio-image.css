@@ -1,0 +1,10 @@
+img.edit
+{
+        margin:20px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-shadow: 2px 2px 15px 0 black;
+        padding: 5px;
+        width: 230px;
+        float: right;
+}

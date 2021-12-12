@@ -1,0 +1,46 @@
+body
+{      background-color:#D5F5E3 ;
+       font-size: 35px;
+       margin:20px;
+       border-left: 3px;
+       direction:rtl;
+}
+.bor
+{
+       padding:20px;
+       border-left: 2px solid red;
+}
+.space
+{
+       padding:20px
+}
+.bio
+{
+       color:#196F3D ;
+       font-size: 25px;
+       font-family: Arial;
+}
+.links
+{
+        text-decoration:none;
+        color:#DC7633 ;
+}
+.footer
+{
+        padding-top:160px;
+}
+.spacee
+{
+         padding: 190px
+
+}
+.space1
+{
+          padding: 175px
+
+}
+.space2
+{
+          padding: 182px
+
+}

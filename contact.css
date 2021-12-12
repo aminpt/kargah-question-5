@@ -1,0 +1,22 @@
+input[type=text], textarea
+{
+padding:15px;
+border: solid 2px #ccc;
+font-size: 15px;
+width:60%;
+box-sizing:border-box;
+}
+.contact
+{
+background-color:#D5F5E3;
+padding-right: 420px;
+}
+input[type=submit]
+{
+color: white;
+padding: 15px 15px;
+background:#1A5276;
+border:groove;
+border-radius: 2px;
+cursor: pointer;
+}
